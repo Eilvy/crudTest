@@ -16,6 +16,10 @@
 
 ​	采用Restful风格的接口编写
 
+  技术栈采用SpringBoot的web框架,Mybatis,Lombok
+
+  数据库采用Mysql
+
 ### 增加用户
 
 采用Post请求
